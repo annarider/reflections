@@ -16,7 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    undo bad changes in local copy by referring to last known state of remote, also if do not want the new commit on remote, can take the locally stored version of remote and override.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

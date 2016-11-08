@@ -16,12 +16,22 @@ organized? How would branches help?
 working code base
 
 How do the diagrams help you visualize the branch structure?
-- helps understand the flow
+- helps understand each branch and the history of commits on the branch
+- explains how branches divert from each other
+- shows any unreachable commits 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-- 
+- allows consolidation of the separate branches and therefore bring together
+separate work that was in a branch to the master. 
+- diagram shows how 2 branches come together and the parent that contributed
+makes it easier to see the history 
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
-
+pro:
+- faster to automatically merge instead of asking human to intervene
+- computer is better at detecting changes
+- no risk of introducing human error when merging
+cons:
+- git not smart enough to decide what to keep and what to discard when merging
