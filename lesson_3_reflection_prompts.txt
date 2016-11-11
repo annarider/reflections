@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   When creating an experimental feature or adding something new that is not fully tested and we don't want it to destroy good work on the master branch. Benefit of directly committing to master branch is no manual work to go through merging into another branch and back into master. But branching is good feature for version control and collaboration. Ensures code is not switched out from underneath. 
