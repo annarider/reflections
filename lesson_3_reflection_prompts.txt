@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+   Using Google Drive, Dropbox or another similar file sharing technology. What's easier: automatic syncing and commenting so making updates would be less manual work. Harder: not overriding my changings and potentially introducing bad changes but unable to recover. Also harder to do experiments because there's no branching feature. Probably less organized too by saving multiple copies of the same files to back up. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
